@@ -14,5 +14,5 @@ A simple Telegram bot that posts daily prayer (Adhan) times to a specified chann
 - Uses the free [Aladhan Prayer Times API](https://aladhan.com/prayer-times-api)
 
 
-> #### ⚠️ Project is in early beta
+> #### **⚠️ Project is in early beta**
 
